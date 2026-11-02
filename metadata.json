@@ -1,0 +1,6 @@
+{
+  "name": "CreatorPulse",
+  "description": "Plataforma todo en uno para YouTubers, streamers y creadores de contenido: analítica multicanal, cuentas vinculadas, calendario editorial y gestión de ingresos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
